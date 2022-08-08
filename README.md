@@ -6,4 +6,4 @@
 
 
 ## SNS LIST
-<a href="https://www.instagram.com/jjanghan0/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-instar?style=flat&logo=#E4405F&logoColor=ff69b4"/></a>
+<a href="https://www.instagram.com/jjanghan0/" target="_blank"><img src="https://img.shields.io/badge/instar?style=flat&logo=#E4405F&logoColor=ff69b4"/></a>
