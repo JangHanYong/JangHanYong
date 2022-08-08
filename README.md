@@ -6,4 +6,4 @@
 
 
 ## SNS LIST
-<a href="https://www.instagram.com/jjanghan0/" target="_blank"><img src="https://img.shields.io/badge/instar-red?style=flat&logo=#E4405F&logoColor=white"/>
+<a href="https://www.instagram.com/jjanghan0/" target="_blank"><img src="https://img.shields.io/badge/logoname-instar?style=flat&logo=#E4405F&logoColor=white"/>
