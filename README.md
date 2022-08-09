@@ -14,3 +14,5 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=FFFFFF"/></a>
 
+## stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHanyong&show_icons=true&theme=radical)
