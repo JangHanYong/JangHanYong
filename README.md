@@ -10,3 +10,7 @@
 ## tech
 <img src="https://img.shields.io/badge/Python-0067a3?style=flat&logo=python&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-ff7f00?style=flat&logo=Tensorflow&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=FFFFFF"/></a>
+
