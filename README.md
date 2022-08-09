@@ -9,3 +9,4 @@
 <a href="https://www.instagram.com/jjanghan0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC0CB?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 ## tech
 <img src="https://img.shields.io/badge/Python-0067a3?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Tensorflow-ff7f00?style=flat&logo=Tensorflow&logoColor=FFFFFF"/></a>
