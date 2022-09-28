@@ -1,6 +1,6 @@
 # JangHanYong 
 ## Introduce
-##### 딥러닝엔지니어를 꿈꾸는 장한영엽니다
+##### 딥러닝엔지니어
 - born in 1997
 - electric engineering
 
